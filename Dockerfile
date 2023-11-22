@@ -1,4 +1,4 @@
-FROM python:3.9.16-slim
+FROM python:slim-bookworm
 
 WORKDIR /opt/app-root/src
 
